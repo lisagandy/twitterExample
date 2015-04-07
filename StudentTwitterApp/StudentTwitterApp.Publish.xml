@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\StudentTwitterAppPublish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/GettingStarted.txt" publishTime="01/29/2015 05:56:30" />
+    <file relUrl="bin/Twitterizer2.Streaming.pdb" publishTime="02/18/2015 17:29:54" />
+    <file relUrl="bin/Twitterizer2.dll" publishTime="02/18/2015 17:29:53" />
+    <file relUrl="bin/StudentTwitterApp.dll" publishTime="03/30/2015 20:00:39" />
+    <file relUrl="bin/Twitterizer2.Asynchronous.dll" publishTime="02/18/2015 17:29:54" />
+    <file relUrl="Global.asax" publishTime="02/06/2015 00:05:40" />
+    <file relUrl="bin/Twitterizer2.xml" publishTime="02/18/2015 17:29:53" />
+    <file relUrl="bin/Twitterizer2.license.txt" publishTime="01/29/2015 05:56:30" />
+    <file relUrl="Styles/Site.css" publishTime="02/06/2015 00:05:40" />
+    <file relUrl="bin/Twitterizer2.Streaming.dll" publishTime="02/18/2015 17:29:54" />
+    <file relUrl="Site.Master" publishTime="02/06/2015 00:05:40" />
+    <file relUrl="About.aspx" publishTime="02/06/2015 00:05:40" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="02/06/2015 00:05:40" />
+    <file relUrl="Temp/readme.txt" publishTime="02/23/2015 12:13:26" />
+    <file relUrl="WebForm1.aspx" publishTime="03/23/2015 19:32:35" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="01/29/2015 05:56:30" />
+    <file relUrl="Account/Web.config" publishTime="02/06/2015 00:05:40" />
+    <file relUrl="Account/Register.aspx" publishTime="02/06/2015 00:05:40" />
+    <file relUrl="Account/Login.aspx" publishTime="02/06/2015 00:05:40" />
+    <file relUrl="bin/Twitterizer2.pdb" publishTime="02/18/2015 17:29:53" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="02/06/2015 00:05:40" />
+    <file relUrl="Default.aspx" publishTime="02/06/2015 01:48:47" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="02/06/2015 00:05:40" />
+    <file relUrl="bin/StudentTwitterApp.pdb" publishTime="03/30/2015 20:00:39" />
+    <file relUrl="bin/Twitterizer2.Asynchronous.pdb" publishTime="02/18/2015 17:29:54" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="02/06/2015 00:05:40" />
+    <file relUrl="Web.config" publishTime="02/23/2015 13:19:24" />
+    <file relUrl="Index.aspx" publishTime="03/30/2015 20:04:12" />
+    <file relUrl="bin/Twitterizer2.Asynchronous.xml" publishTime="02/18/2015 17:29:54" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="01/29/2015 05:56:30" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="02/06/2015 00:05:40" />
+  </publishProfile>
+</publishData>
